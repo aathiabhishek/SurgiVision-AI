@@ -1,0 +1,10 @@
+names:
+- Scalpel
+- Straight Dissection Clamp
+- Straight Mayo Scissor
+- Curved Mayo Scissor
+path: surgical_yolo_dataset
+train: images/train
+val: images/val
+
+

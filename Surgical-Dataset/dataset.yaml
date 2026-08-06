@@ -1,0 +1,6 @@
+train: /Users/aathiabhishek/Desktop/AppliedAI/Sem2/Deeplearning2/Project/Surgical-Dataset/Test-TrainGroups/test-obj_detector.txt
+
+val: /Users/aathiabhishek/Desktop/AppliedAI/Sem2/Deeplearning2/Project/Surgical-Dataset/Test-TrainGroups/train-obj_detector.txt
+
+nc: 1
+names: ['surgical_tool']
