@@ -90,4 +90,3 @@ streamlit run app.py
 
 ---
 
-## 👥 Team & Agile Management Structure
